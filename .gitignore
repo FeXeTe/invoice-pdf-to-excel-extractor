@@ -1,0 +1,11 @@
+# Compiled Python bytecode, regenerated automatically
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Editor/IDE settings
+.vscode/
+.idea/
